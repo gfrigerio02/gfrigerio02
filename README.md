@@ -1,4 +1,4 @@
-# Hi, this is the Github account that I use to gain some experience for my Data Analysis in Finance class. 
+##### Hi, this is the Github account that I use to gain some experience for my Data Analysis in Finance class. 
 
 <!--
 **gfrigerio02/gfrigerio02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
