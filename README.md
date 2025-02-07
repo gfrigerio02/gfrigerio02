@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to use Github and some coding language in my Data Analysis in Finance class.
 - 👯 I’m looking to collaborate on projects and labs in my Data Analysis in Finance class.
 - 🤔 I’m looking for help with 
-- 💬 Ask me about ...
 - 📫 How to reach me: gfrigerio@elon.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a twin sister.
--->
+
